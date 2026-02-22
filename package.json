@@ -10,8 +10,8 @@
     "dev:order-client": "ts-node src/order-client/main.ts"
   },
   "dependencies": {
-    "@hazeljs/core": "file:../hazeljs/packages/core",
-    "@hazeljs/grpc": "file:../hazeljs/packages/grpc",
+    "@hazeljs/core": "0.2.0-beta.34",
+    "@hazeljs/grpc": "0.2.0-beta.34",
     "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {
