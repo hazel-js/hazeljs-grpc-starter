@@ -1,0 +1,26 @@
+{
+  "name": "hazeljs-grpc-starter",
+  "version": "1.0.0",
+  "description": "HazelJS gRPC starter - Product server and Order client example",
+  "scripts": {
+    "build": "tsc",
+    "start:product-server": "node dist/product-server/main.js",
+    "start:order-client": "node dist/order-client/main.js",
+    "dev:product-server": "ts-node src/product-server/main.ts",
+    "dev:order-client": "ts-node src/order-client/main.ts"
+  },
+  "dependencies": {
+    "@hazeljs/core": "file:../hazeljs/packages/core",
+    "@hazeljs/grpc": "file:../hazeljs/packages/grpc",
+    "reflect-metadata": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.50",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

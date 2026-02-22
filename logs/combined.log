@@ -1,0 +1,320 @@
+2026-02-22 20:45:25 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:45:25 [INFO] Configuring gRPC module...
+2026-02-22 20:45:25 [INFO] Initializing HazelApp
+2026-02-22 20:45:25 [INFO] Container initialized
+2026-02-22 20:45:25 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 20:45:25 [INFO] Registered health check: memory
+2026-02-22 20:45:25 [INFO] Registered health check: eventLoop
+2026-02-22 20:45:25 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 20:45:25 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 20:45:25 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:45:25 [INFO] 
+2026-02-22 20:45:25 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3001[24m[39m
+2026-02-22 20:45:25 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3001[24m[39m
+2026-02-22 20:45:25 [INFO] 
+2026-02-22 20:45:25 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:45:25 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:45:25 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:45:25 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:45:25 [INFO] 
+2026-02-22 20:45:25 [INFO] Added gRPC service: ProductService
+2026-02-22 20:45:25 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 20:46:47 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:47:11 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:47:11 [INFO] Configuring gRPC module...
+2026-02-22 20:47:11 [INFO] Initializing HazelApp
+2026-02-22 20:47:11 [INFO] Container initialized
+2026-02-22 20:47:11 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 20:47:11 [INFO] Registered health check: memory
+2026-02-22 20:47:11 [INFO] Registered health check: eventLoop
+2026-02-22 20:47:11 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 20:47:11 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 20:47:11 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:47:11 [INFO] 
+2026-02-22 20:47:11 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3001[24m[39m
+2026-02-22 20:47:11 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3001[24m[39m
+2026-02-22 20:47:11 [INFO] 
+2026-02-22 20:47:11 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:47:11 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:47:11 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:47:11 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:47:11 [INFO] 
+2026-02-22 20:47:11 [INFO] Added gRPC service: ProductService
+2026-02-22 20:47:11 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 20:47:14 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:47:18 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:47:18 [INFO] Configuring gRPC module...
+2026-02-22 20:47:18 [INFO] Initializing HazelApp
+2026-02-22 20:47:18 [INFO] Container initialized
+2026-02-22 20:47:18 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 20:47:18 [INFO] Registered health check: memory
+2026-02-22 20:47:18 [INFO] Registered health check: eventLoop
+2026-02-22 20:47:18 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 20:47:18 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 20:47:18 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:47:18 [INFO] 
+2026-02-22 20:47:18 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3001[24m[39m
+2026-02-22 20:47:18 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3001[24m[39m
+2026-02-22 20:47:18 [INFO] 
+2026-02-22 20:47:18 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:47:18 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:47:18 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:47:18 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:47:18 [INFO] 
+2026-02-22 20:47:18 [INFO] Added gRPC service: ProductService
+2026-02-22 20:47:18 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 20:48:11 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:48:56 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:48:56 [INFO] Configuring gRPC module...
+2026-02-22 20:48:56 [INFO] Initializing HazelApp
+2026-02-22 20:48:56 [INFO] Container initialized
+2026-02-22 20:48:56 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 20:48:56 [INFO] Registered health check: memory
+2026-02-22 20:48:56 [INFO] Registered health check: eventLoop
+2026-02-22 20:48:56 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 20:48:56 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 20:48:56 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:48:56 [INFO] 
+2026-02-22 20:48:56 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3001[24m[39m
+2026-02-22 20:48:56 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3001[24m[39m
+2026-02-22 20:48:56 [INFO] 
+2026-02-22 20:48:56 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:48:56 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:48:56 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:48:56 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:48:56 [INFO] 
+2026-02-22 20:48:56 [INFO] Added gRPC service: ProductService
+2026-02-22 20:48:56 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 20:49:59 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:49:59 [INFO] Configuring gRPC client module...
+2026-02-22 20:49:59 [INFO] Initializing HazelApp
+2026-02-22 20:49:59 [INFO] Container initialized
+2026-02-22 20:49:59 [INFO] Registering provider: OrderService with scope: singleton
+2026-02-22 20:49:59 [INFO] Registering provider: OrderController with scope: singleton
+2026-02-22 20:49:59 [INFO] Registered health check: memory
+2026-02-22 20:49:59 [INFO] Registered health check: eventLoop
+2026-02-22 20:49:59 [INFO] Initializing module: | {"moduleName":"OrderAppModule"}
+2026-02-22 20:49:59 [INFO] Registering controllers: | {"controllers":["OrderController"]}
+2026-02-22 20:49:59 [INFO] Registering controller: OrderController
+2026-02-22 20:49:59 [INFO] Registering route: GET //products (handler: listProducts)
+2026-02-22 20:49:59 [INFO] Registering route: GET //products/:id (handler: getProduct)
+2026-02-22 20:49:59 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:49:59 [INFO] 
+2026-02-22 20:49:59 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3000[24m[39m
+2026-02-22 20:49:59 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3000[24m[39m
+2026-02-22 20:49:59 [INFO] 
+2026-02-22 20:49:59 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:49:59 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:49:59 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:49:59 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:49:59 [INFO] 
+2026-02-22 20:50:04 [ERROR] [GET] /products - Route matching error: Route not found (status: 404)
+2026-02-22 20:51:06 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:51:07 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:51:07 [INFO] Configuring gRPC client module...
+2026-02-22 20:51:07 [INFO] Initializing HazelApp
+2026-02-22 20:51:07 [INFO] Container initialized
+2026-02-22 20:51:07 [INFO] Registering provider: OrderService with scope: singleton
+2026-02-22 20:51:07 [INFO] Registering provider: OrderController with scope: singleton
+2026-02-22 20:51:07 [INFO] Registered health check: memory
+2026-02-22 20:51:07 [INFO] Registered health check: eventLoop
+2026-02-22 20:51:07 [INFO] Initializing module: | {"moduleName":"OrderAppModule"}
+2026-02-22 20:51:07 [INFO] Registering controllers: | {"controllers":["OrderController"]}
+2026-02-22 20:51:07 [INFO] Registering controller: OrderController
+2026-02-22 20:51:07 [INFO] Registering route: GET /products (handler: listProducts)
+2026-02-22 20:51:07 [INFO] Registering route: GET /products/:id (handler: getProduct)
+2026-02-22 20:51:07 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:51:07 [INFO] 
+2026-02-22 20:51:07 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3000[24m[39m
+2026-02-22 20:51:07 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3000[24m[39m
+2026-02-22 20:51:07 [INFO] 
+2026-02-22 20:51:07 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:51:07 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:51:07 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:51:07 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:51:07 [INFO] 
+2026-02-22 20:51:11 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 20:51:11 [ERROR] Request handler error: Cannot read properties of undefined (reading 'listProducts') | {"stack":"TypeError: Cannot read properties of undefined (reading 'listProducts')\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:10:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)"}
+2026-02-22 20:51:11 [ERROR] Unhandled error: | {"error":"Cannot read properties of undefined (reading 'listProducts')","stack":"TypeError: Cannot read properties of undefined (reading 'listProducts')\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:10:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)","requestId":"req-1771789871136-dyaqhooib","method":"GET","url":"/products"}
+2026-02-22 20:52:25 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 20:52:25 [ERROR] Request handler error: Cannot read properties of undefined (reading 'listProducts') | {"stack":"TypeError: Cannot read properties of undefined (reading 'listProducts')\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:10:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)"}
+2026-02-22 20:52:25 [ERROR] Unhandled error: | {"error":"Cannot read properties of undefined (reading 'listProducts')","stack":"TypeError: Cannot read properties of undefined (reading 'listProducts')\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:10:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)","requestId":"req-1771789945001-q3iqqi590","method":"GET","url":"/products"}
+2026-02-22 20:52:48 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 20:52:48 [ERROR] Request handler error: Cannot read properties of undefined (reading 'listProducts') | {"stack":"TypeError: Cannot read properties of undefined (reading 'listProducts')\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:10:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)"}
+2026-02-22 20:52:48 [ERROR] Unhandled error: | {"error":"Cannot read properties of undefined (reading 'listProducts')","stack":"TypeError: Cannot read properties of undefined (reading 'listProducts')\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:10:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)","requestId":"req-1771789968226-q1z354c4d","method":"GET","url":"/products"}
+2026-02-22 20:53:01 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:53:02 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:53:02 [INFO] Configuring gRPC client module...
+2026-02-22 20:53:02 [INFO] Initializing HazelApp
+2026-02-22 20:53:02 [INFO] Container initialized
+2026-02-22 20:53:02 [INFO] Registering provider: OrderService with scope: singleton
+2026-02-22 20:53:02 [INFO] Registering provider: OrderController with scope: singleton
+2026-02-22 20:53:02 [INFO] Registered health check: memory
+2026-02-22 20:53:02 [INFO] Registered health check: eventLoop
+2026-02-22 20:53:02 [INFO] Initializing module: | {"moduleName":"OrderAppModule"}
+2026-02-22 20:53:02 [INFO] Registering controllers: | {"controllers":["OrderController"]}
+2026-02-22 20:53:02 [INFO] Registering controller: OrderController
+2026-02-22 20:53:02 [INFO] Registering route: GET /products (handler: listProducts)
+2026-02-22 20:53:02 [INFO] Registering route: GET /products/:id (handler: getProduct)
+2026-02-22 20:53:02 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:53:02 [INFO] 
+2026-02-22 20:53:02 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3000[24m[39m
+2026-02-22 20:53:02 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3000[24m[39m
+2026-02-22 20:53:02 [INFO] 
+2026-02-22 20:53:02 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:53:02 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:53:02 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:53:02 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:53:02 [INFO] 
+2026-02-22 20:53:06 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 20:53:06 [ERROR] Request handler error: Cannot read properties of undefined (reading 'getClient') | {"stack":"TypeError: Cannot read properties of undefined (reading 'getClient')\n    at OrderService.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.service.ts:19:36)\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:12:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)"}
+2026-02-22 20:53:06 [ERROR] Unhandled error: | {"error":"Cannot read properties of undefined (reading 'getClient')","stack":"TypeError: Cannot read properties of undefined (reading 'getClient')\n    at OrderService.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.service.ts:19:36)\n    at OrderController.listProducts (/Users/muhammadarslan/repos/hazeljs.com/hazeljs-grpc-starter/src/order-client/order.controller.ts:12:46)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:262:35\n    at Router.applyInterceptors (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:97:20)\n    at /Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:261:43\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.wrappedHandler [as handler] (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/router.js:406:21)\n    at async HazelApp.handleRoute (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:358:28)\n    at async Server.<anonymous> (/Users/muhammadarslan/repos/hazeljs.com/hazeljs/packages/core/dist/hazel-app.js:285:21)","requestId":"req-1771789986613-11z9jm48d","method":"GET","url":"/products"}
+2026-02-22 20:56:45 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:56:56 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 20:58:51 [INFO] Application started | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:58:51 [INFO] Configuring gRPC module...
+2026-02-22 20:58:51 [INFO] Initializing HazelApp
+2026-02-22 20:58:51 [INFO] Container initialized
+2026-02-22 20:58:51 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 20:58:51 [INFO] Registered health check: memory
+2026-02-22 20:58:51 [INFO] Registered health check: eventLoop
+2026-02-22 20:58:51 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 20:58:51 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 20:58:51 [INFO] Server listening on:
+2026-02-22 20:58:51 [INFO] 
+2026-02-22 20:58:51 [INFO]   → Local:    http://localhost:3001
+2026-02-22 20:58:51 [INFO]   → Network:  http://192.168.86.165:3001
+2026-02-22 20:58:51 [INFO] 
+2026-02-22 20:58:51 [INFO] Health endpoints:
+2026-02-22 20:58:51 [INFO]   → /health  - Liveness probe
+2026-02-22 20:58:51 [INFO]   → /ready   - Readiness probe
+2026-02-22 20:58:51 [INFO]   → /startup - Startup probe
+2026-02-22 20:58:51 [INFO] 
+2026-02-22 20:58:51 [INFO] Added gRPC service: ProductService
+2026-02-22 20:58:51 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 20:58:59 [INFO] Application started | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:59:00 [INFO] Configuring gRPC client module...
+2026-02-22 20:59:00 [INFO] Initializing HazelApp
+2026-02-22 20:59:00 [INFO] Container initialized
+2026-02-22 20:59:00 [INFO] gRPC client configured | {"package":"catalog","defaultUrl":"localhost:50051","discovery":false}
+2026-02-22 20:59:00 [INFO] Registering provider: OrderService with scope: singleton
+2026-02-22 20:59:00 [INFO] Registering provider: OrderController with scope: singleton
+2026-02-22 20:59:00 [INFO] Registered health check: memory
+2026-02-22 20:59:00 [INFO] Registered health check: eventLoop
+2026-02-22 20:59:00 [INFO] Initializing module: | {"moduleName":"OrderAppModule"}
+2026-02-22 20:59:00 [INFO] Registering controllers: | {"controllers":["OrderController"]}
+2026-02-22 20:59:00 [INFO] Registering controller: OrderController
+2026-02-22 20:59:00 [INFO] Registering route: GET /products (handler: listProducts)
+2026-02-22 20:59:00 [INFO] Registering route: GET /products/:id (handler: getProduct)
+2026-02-22 20:59:00 [INFO] Server listening on:
+2026-02-22 20:59:00 [INFO] 
+2026-02-22 20:59:00 [INFO]   → Local:    http://localhost:3000
+2026-02-22 20:59:00 [INFO]   → Network:  http://192.168.86.165:3000
+2026-02-22 20:59:00 [INFO] 
+2026-02-22 20:59:00 [INFO] Health endpoints:
+2026-02-22 20:59:00 [INFO]   → /health  - Liveness probe
+2026-02-22 20:59:00 [INFO]   → /ready   - Readiness probe
+2026-02-22 20:59:00 [INFO]   → /startup - Startup probe
+2026-02-22 20:59:00 [INFO] 
+2026-02-22 20:59:09 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 20:59:09 [INFO] Matched route: | {"method":"GET","url":"/products/1","params":{}}
+2026-02-22 20:59:27 [INFO] Received SIGTERM signal, starting graceful shutdown...
+2026-02-22 20:59:28 [INFO] Received SIGTERM signal, starting graceful shutdown...
+2026-02-22 20:59:32 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:59:32 [INFO] Configuring gRPC module...
+2026-02-22 20:59:32 [INFO] Initializing HazelApp
+2026-02-22 20:59:32 [INFO] Container initialized
+2026-02-22 20:59:32 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 20:59:32 [INFO] Registered health check: memory
+2026-02-22 20:59:32 [INFO] Registered health check: eventLoop
+2026-02-22 20:59:32 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 20:59:32 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 20:59:32 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:59:32 [INFO] 
+2026-02-22 20:59:32 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3001[24m[39m
+2026-02-22 20:59:32 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3001[24m[39m
+2026-02-22 20:59:32 [INFO] 
+2026-02-22 20:59:32 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:59:32 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:59:32 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:59:32 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:59:32 [INFO] 
+2026-02-22 20:59:32 [INFO] Added gRPC service: ProductService
+2026-02-22 20:59:32 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 20:59:36 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 20:59:36 [INFO] Configuring gRPC client module...
+2026-02-22 20:59:36 [INFO] Initializing HazelApp
+2026-02-22 20:59:36 [INFO] Container initialized
+2026-02-22 20:59:36 [INFO] gRPC client configured | {"package":"catalog","defaultUrl":"localhost:50051","discovery":false}
+2026-02-22 20:59:36 [INFO] Registering provider: OrderService with scope: singleton
+2026-02-22 20:59:36 [INFO] Registering provider: OrderController with scope: singleton
+2026-02-22 20:59:36 [INFO] Registered health check: memory
+2026-02-22 20:59:36 [INFO] Registered health check: eventLoop
+2026-02-22 20:59:36 [INFO] Initializing module: | {"moduleName":"OrderAppModule"}
+2026-02-22 20:59:36 [INFO] Registering controllers: | {"controllers":["OrderController"]}
+2026-02-22 20:59:36 [INFO] Registering controller: OrderController
+2026-02-22 20:59:36 [INFO] Registering route: GET /products (handler: listProducts)
+2026-02-22 20:59:36 [INFO] Registering route: GET /products/:id (handler: getProduct)
+2026-02-22 20:59:36 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 20:59:36 [INFO] 
+2026-02-22 20:59:36 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3000[24m[39m
+2026-02-22 20:59:36 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3000[24m[39m
+2026-02-22 20:59:36 [INFO] 
+2026-02-22 20:59:36 [INFO] [90mHealth endpoints:[39m
+2026-02-22 20:59:36 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 20:59:36 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 20:59:36 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 20:59:36 [INFO] 
+2026-02-22 20:59:43 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 20:59:47 [INFO] Matched route: | {"method":"GET","url":"/products/1","params":{}}
+2026-02-22 21:00:41 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 21:00:42 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 21:00:42 [INFO] Configuring gRPC module...
+2026-02-22 21:00:42 [INFO] Initializing HazelApp
+2026-02-22 21:00:42 [INFO] Container initialized
+2026-02-22 21:00:42 [INFO] Registering provider: ProductGrpcController with scope: singleton
+2026-02-22 21:00:42 [INFO] Registered health check: memory
+2026-02-22 21:00:42 [INFO] Registered health check: eventLoop
+2026-02-22 21:00:42 [INFO] Initializing module: | {"moduleName":"ProductAppModule"}
+2026-02-22 21:00:42 [INFO] gRPC server configured | {"package":"catalog","url":"0.0.0.0:50051"}
+2026-02-22 21:00:42 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 21:00:42 [INFO] 
+2026-02-22 21:00:42 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3001[24m[39m
+2026-02-22 21:00:42 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3001[24m[39m
+2026-02-22 21:00:42 [INFO] 
+2026-02-22 21:00:42 [INFO] [90mHealth endpoints:[39m
+2026-02-22 21:00:42 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 21:00:42 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 21:00:42 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 21:00:42 [INFO] 
+2026-02-22 21:00:42 [INFO] Added gRPC service: ProductService
+2026-02-22 21:00:42 [INFO] gRPC server listening on 0.0.0.0:50051
+2026-02-22 21:00:45 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 21:00:46 [INFO] [36m[1mApplication started[22m[39m | {"service":"hazeljs","version":"0.1.0","environment":"development"}
+2026-02-22 21:00:46 [INFO] Configuring gRPC client module...
+2026-02-22 21:00:46 [INFO] Initializing HazelApp
+2026-02-22 21:00:46 [INFO] Container initialized
+2026-02-22 21:00:46 [INFO] gRPC client configured | {"package":"catalog","defaultUrl":"localhost:50051","discovery":false}
+2026-02-22 21:00:46 [INFO] Registering provider: OrderService with scope: singleton
+2026-02-22 21:00:46 [INFO] Registering provider: OrderController with scope: singleton
+2026-02-22 21:00:46 [INFO] Registered health check: memory
+2026-02-22 21:00:46 [INFO] Registered health check: eventLoop
+2026-02-22 21:00:46 [INFO] Initializing module: | {"moduleName":"OrderAppModule"}
+2026-02-22 21:00:46 [INFO] Registering controllers: | {"controllers":["OrderController"]}
+2026-02-22 21:00:46 [INFO] Registering controller: OrderController
+2026-02-22 21:00:46 [INFO] Registering route: GET /products (handler: listProducts)
+2026-02-22 21:00:46 [INFO] Registering route: GET /products/:id (handler: getProduct)
+2026-02-22 21:00:46 [INFO] [32m[1mServer listening on:[22m[39m
+2026-02-22 21:00:46 [INFO] 
+2026-02-22 21:00:46 [INFO] [32m  → Local:    [39m[36m[4mhttp://localhost:3000[24m[39m
+2026-02-22 21:00:46 [INFO] [32m  → Network:  [39m[36m[4mhttp://192.168.86.165:3000[24m[39m
+2026-02-22 21:00:46 [INFO] 
+2026-02-22 21:00:46 [INFO] [90mHealth endpoints:[39m
+2026-02-22 21:00:46 [INFO] [90m  → /health  - Liveness probe[39m
+2026-02-22 21:00:46 [INFO] [90m  → /ready   - Readiness probe[39m
+2026-02-22 21:00:46 [INFO] [90m  → /startup - Startup probe[39m
+2026-02-22 21:00:46 [INFO] 
+2026-02-22 21:00:49 [INFO] Matched route: | {"method":"GET","url":"/products","params":{}}
+2026-02-22 21:00:54 [INFO] Matched route: | {"method":"GET","url":"/products/1","params":{}}
+2026-02-22 21:00:59 [INFO] Received SIGINT signal, starting graceful shutdown...
+2026-02-22 21:01:00 [INFO] Received SIGINT signal, starting graceful shutdown...
