@@ -8,7 +8,7 @@ export class OrderService {
   async getProduct(productId: string): Promise<{ id: string; name: string; price: number }> {
     const client = this.grpcClient.getClient('ProductService');
     return new Promise((resolve, reject) => {
-      client.GetProduct({ id: productId }, (err, res) => {
+      client.getProduct({ id: productId }, (err, res) => {
         if (err) reject(err);
         else resolve(res as { id: string; name: string; price: number });
       });
